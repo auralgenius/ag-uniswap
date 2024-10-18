@@ -1,0 +1,15 @@
+### We’re back with an exciting release! Here’s the latest
+
+### Unichain Testnet Support
+
+Unichain is a new DeFi-native Ethereum L2, built to be the home for liquidity across chains. We now support its testnet, **Unichain Sepolia**!
+
+### Testnet Mode
+
+Now, developers can use the Uniswap Wallet to transact on testnets and store testnet assets. Currently, we support **ETH Sepolia** and **Unichain Sepolia**.
+
+### Other Changes
+
+- Improved visuals around the networks we support
+- Better linkouts on transaction details sheet
+- Various bug fixes and performance improvements
